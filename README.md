@@ -1,6 +1,6 @@
 # Calculator Web App
 
-![Calculator Screenshot](screenshot.png](https://devilhackzz.github.io/Calculator/screenshots/screenshot.png) <!-- Add a screenshot of your calculator app here -->
+![Calculator Screenshot](https://devilhackzz.github.io/Calculator/screenshots/screenshot.png) <!-- Add a screenshot of your calculator app here -->
 
 ## Overview
 
